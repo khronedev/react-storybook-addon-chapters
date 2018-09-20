@@ -58,7 +58,7 @@
     "react": "^16.4.2",
     "react-addons-create-fragment": "^15.6.2"
   },
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "engines": {
     "npm": "^3.0.0"
   }
